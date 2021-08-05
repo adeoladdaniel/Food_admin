@@ -1,0 +1,49 @@
+
+@import '../theme';
+/** Used to define container behavior: width, position: fixed etc... **/
+
+.Toastify__toast-container {
+  border-radius:$border-radius ;
+}
+
+/** Classes for the displayed toast **/
+.Toastify__toast {
+  border-radius:3rem ; 
+}
+.Toastify__toast--rtl {
+  border-radius:3rem ;
+}
+.Toastify__toast--dark {
+  border-radius:$border-radius !important;
+  padding:.8rem;
+  box-shadow: $border-radius !important; 
+}
+.Toastify__toast--default {
+  border-radius:$border-radius !important;
+  padding:.8rem;
+  box-shadow: $border-radius !important;
+}
+.Toastify__toast--info {
+  border-radius:$border-radius !important;
+  padding:.8rem;
+  box-shadow: $border-radius !important;
+}
+.Toastify__toast--success {
+  border-radius:$border-radius !important;
+  padding:.8rem;
+  box-shadow: $border-radius !important;
+  // background-color: rgb(39, 162, 39) !important;
+}
+.Toastify__toast--warning {
+  border-radius:$border-radius !important;
+  padding:.8rem;
+  box-shadow: $border-radius !important;
+}
+.Toastify__toast--error {
+  border-radius:$border-radius !important;
+  padding:.8rem;
+  box-shadow: $border-radius !important;
+}
+.Toastify__toast-body {
+  border-radius:3rem ;
+}

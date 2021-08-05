@@ -1,0 +1,18 @@
+{
+  "prettier.trailingComma": "none",
+  "prettier.useTabs": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 100,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.insertPragma": true,
+  "prettier.htmlWhitespaceSensitivity": "strict",
+  "editor.formatOnSave": true,
+  "html.format.endWithNewline": true,
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.codeActionsOnSave": {},
+  "cSpell.words": [
+    "draftjs",
+    "namor"
+  ]
+}

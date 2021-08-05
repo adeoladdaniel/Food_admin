@@ -1,0 +1,17 @@
+//**Error 404 page***//
+.error {
+  text-align: center;
+  margin: 1rem;
+  height: 60vh;
+  div {
+    h1,
+    p,
+    a {
+      margin: 1rem;
+      // text-align: left;
+    }
+    img {
+      height: 7rem;
+    }
+  }
+}
